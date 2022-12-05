@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bbreanl
+- 👋 Hi, I’m Breana Lewis
 - 👀 I’m interested in Ocean Life Photography 
 - 🌱 I’m currently learning Software Development 
 - 💞️ I’m looking to collaborate on ...
